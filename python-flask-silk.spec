@@ -9,6 +9,7 @@ License:	BSD
 URL:		http://github.com/mitsuhiko/flask-silk/
 Source0:	http://pypi.python.org/packages/source/F/%{mod_name}/%{mod_name}-%{version}.tar.gz
 BuildArch:	noarch
+BuildRequires:	python-flask
 Requires:	python-flask
 %py_requires -d
 
