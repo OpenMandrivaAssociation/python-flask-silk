@@ -30,3 +30,11 @@ Adds silk icons to your Flask application or module, or extension.
 %{python_sitelib}/*-nspkg.pth
 %{python_sitelib}/*.egg-info/
 %{python_sitelib}/flaskext/silk
+
+
+%changelog
+* Fri Aug 17 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1.1-1
++ Revision: 815260
+- Import python-flask-silk
+- Import python-flask-silk
+
