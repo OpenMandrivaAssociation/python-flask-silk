@@ -2,7 +2,7 @@
 
 Name:		python-flask-silk
 Version:	0.1.1
-Release:	3
+Release:	4
 Summary:	Adds silk icons to your Flask application or module, or extension
 License:	BSD
 URL:		http://github.com/mitsuhiko/flask-silk/
@@ -10,6 +10,7 @@ Source0:	http://pypi.python.org/packages/source/F/%{mod_name}/%{mod_name}-%{vers
 BuildArch:	noarch
 BuildRequires:	python-devel
 BuildRequires:	python-flask
+BuildRequires:	python-setuptools
 Requires:	python-flask
 
 %description
